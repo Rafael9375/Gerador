@@ -14,8 +14,6 @@ const getAll = async (req, res) => {
     .catch((err) => {
       console.log('Erro: ' + err);
     });
-  res.json(users)
-  
 }
 
 module.exports = {
