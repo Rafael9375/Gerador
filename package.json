@@ -9,6 +9,6 @@
     "prisma": "^4.15.0"
   },
   "scripts": {
-    "start": "concurrently \"cd client && npm run dev\" \"nodemon Server.js\""
+    "start": "node Server.js\""
   }
 }
