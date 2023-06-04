@@ -9,6 +9,6 @@
     "prisma": "^4.15.0"
   },
   "scripts": {
-    "start": "node Server.js\""
+    "start": "node Server.js"
   }
 }
